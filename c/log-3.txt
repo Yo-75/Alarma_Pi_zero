@@ -1,0 +1,35 @@
+2021-04-11 00:15:57 INFO  alarma/alarma.c:72: Successfully opened I2C bus 1
+2021-04-11 00:15:58 INFO  sql/sql.c:40: Start getting data from SQL
+2021-04-11 00:15:58 INFO  sql/sql.c:61: Getting data from SQL server
+2021-04-11 00:15:58 INFO  sql/sql.c:77:   - DelayPornireAlarma : 10
+2021-04-11 00:15:58 INFO  sql/sql.c:94:    - GMAIL_SERVER : Smtp.gmail.com
+2021-04-11 00:15:58 INFO  sql/sql.c:112:    - GMAIL_PORT : 587
+2021-04-11 00:15:58 INFO  sql/sql.c:128:    - GMAIL_USER : Alarmadeacasa1
+2021-04-11 00:15:58 INFO  sql/sql.c:143:    - GMAIL_PASSWORD : 1ntrax0m
+2021-04-11 00:15:58 INFO  sql/sql.c:158:    - GMAIL_FROM : Alarma Timisoara
+2021-04-11 00:15:58 INFO  sql/sql.c:173:    - GMAIL_TO : Eugens75@gmail.com;alarmadeacasa1@gmail.com
+2021-04-11 00:15:58 INFO  sql/sql.c:188:    - GMAIL_SUBJECT : Eveniment Timisoara
+2021-04-11 00:15:58 INFO  sql/sql.c:194: End getting data from SQL Server
+
+2021-04-11 00:15:58 INFO  mail/mail.c:198: Am gasit 2 mailuri netrimise in baza de date. Incerc trimiterea lor acum
+2021-04-11 00:16:17 INFO  mail/mail.c:198: Am gasit 2 mailuri netrimise in baza de date. Incerc trimiterea lor acum
+2021-04-11 00:16:17 INFO  mail/mail.c:69: Parametrii folositi pentru a trimite mail:
+2021-04-11 00:16:17 INFO  mail/mail.c:70:  - User : Alarmadeacasa1
+2021-04-11 00:16:17 INFO  mail/mail.c:71:  - Pass : 1ntrax0m
+2021-04-11 00:16:17 INFO  mail/mail.c:72:  - Smtp : Smtp.gmail.com
+2021-04-11 00:16:17 INFO  mail/mail.c:73:  - Port : 587
+2021-04-11 00:16:17 INFO  mail/mail.c:74:  - From : Alarma Timisoara
+2021-04-11 00:16:17 INFO  mail/mail.c:75:  - To   : Eugens75@gmail.com;alarmadeacasa1@gmail.com
+2021-04-11 00:16:17 INFO  mail/mail.c:76:  - Subj : Eveniment Timisoara
+2021-04-11 00:16:18 INFO  mail/mail.c:228: Transmiterea mesajului s-a efectuat cu succes. Se incearca tranmiterea urmatorului...
+2021-04-11 00:16:18 INFO  mail/mail.c:198: Am gasit 1 mailuri netrimise in baza de date. Incerc trimiterea lor acum
+2021-04-11 00:17:17 INFO  mail/mail.c:198: Am gasit 1 mailuri netrimise in baza de date. Incerc trimiterea lor acum
+2021-04-11 00:17:17 INFO  mail/mail.c:69: Parametrii folositi pentru a trimite mail:
+2021-04-11 00:17:17 INFO  mail/mail.c:70:  - User : Alarmadeacasa1
+2021-04-11 00:17:17 INFO  mail/mail.c:71:  - Pass : 1ntrax0m
+2021-04-11 00:17:17 INFO  mail/mail.c:72:  - Smtp : Smtp.gmail.com
+2021-04-11 00:17:17 INFO  mail/mail.c:73:  - Port : 587
+2021-04-11 00:17:17 INFO  mail/mail.c:74:  - From : Alarma Timisoara
+2021-04-11 00:17:17 INFO  mail/mail.c:75:  - To   : Eugens75@gmail.com
+2021-04-11 00:17:17 INFO  mail/mail.c:76:  - Subj : Eveniment Timisoara
+2021-04-11 00:17:18 INFO  mail/mail.c:228: Transmiterea mesajului s-a efectuat cu succes. Se incearca tranmiterea urmatorului...

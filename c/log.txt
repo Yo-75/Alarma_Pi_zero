@@ -1,0 +1,4 @@
+2021-10-23 17:45:13 INFO  alarma/alarma.c:72: Successfully opened I2C bus 1
+2021-10-23 17:45:14 INFO  alarma/alarma.c:117: A fost sezitata o schimbare in nivelul lui ACOK : Power OFF
+2021-10-23 17:45:14 ERROR mail/mail.c:150: curl_easy_perform() failed: URL using bad/illegal format or missing URL
+

@@ -1,0 +1,13 @@
+2021-04-11 00:22:49 INFO  alarma/alarma.c:72: Successfully opened I2C bus 1
+2021-04-11 00:22:49 INFO  sql/sql.c:40: Start getting data from SQL
+2021-04-11 00:22:49 INFO  sql/sql.c:61: Getting data from SQL server
+2021-04-11 00:22:49 INFO  sql/sql.c:77:   - DelayPornireAlarma : 10
+2021-04-11 00:22:49 INFO  sql/sql.c:94:    - GMAIL_SERVER : Smtp.gmail.com
+2021-04-11 00:22:49 INFO  sql/sql.c:112:    - GMAIL_PORT : 587
+2021-04-11 00:22:49 INFO  sql/sql.c:128:    - GMAIL_USER : Alarmadeacasa1
+2021-04-11 00:22:49 INFO  sql/sql.c:143:    - GMAIL_PASSWORD : 1ntrax0m
+2021-04-11 00:22:49 INFO  sql/sql.c:158:    - GMAIL_FROM : Alarma Timisoara
+2021-04-11 00:22:49 INFO  sql/sql.c:173:    - GMAIL_TO : Eugens75@gmail.com;alarmadeacasa1@gmail.com
+2021-04-11 00:22:49 INFO  sql/sql.c:188:    - GMAIL_SUBJECT : Eveniment Timisoara
+2021-04-11 00:22:49 INFO  sql/sql.c:194: End getting data from SQL Server
+

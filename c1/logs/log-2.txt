@@ -1,0 +1,21 @@
+2021-10-27 19:12:58 INFO  sql/sql.c:41: Start getting data from SQL
+2021-10-27 19:12:58 INFO  sql/sql.c:61: Getting data from SQL server
+2021-10-27 19:12:58 INFO  sql/sql.c:80:   - DelayPornireAlarma : 10
+2021-10-27 19:12:58 INFO  sql/sql.c:98:    - GMAIL_SERVER : Smtp.gmail.com
+2021-10-27 19:12:58 INFO  sql/sql.c:119:    - GMAIL_PORT : 587
+2021-10-27 19:12:58 INFO  sql/sql.c:136:    - GMAIL_USER : Alarmadeacasa1
+2021-10-27 19:12:58 INFO  sql/sql.c:153:    - GMAIL_PASSWORD : 1ntrax0m
+2021-10-27 19:12:58 INFO  sql/sql.c:170:    - GMAIL_FROM : Alarma Timisoara
+2021-10-27 19:12:58 INFO  sql/sql.c:187:    - GMAIL_TO : Eugens75@gmail.com;alarmadeacasa1@gmail.com
+2021-10-27 19:12:58 INFO  sql/sql.c:204:    - GMAIL_SUBJECT : Eveniment Timisoara
+2021-10-27 19:12:58 INFO  sql/sql.c:209: End getting data from SQL Server
+
+2021-10-27 19:12:58 INFO  alarma/alarma.c:74: Successfully opened I2C bus 1
+2021-10-27 19:13:38 INFO  alarma/alarma.c:115: A fost sezitata o schimbare in nivelul lui ACOK : Power ON
+2021-10-27 19:17:03 INFO  alarma/alarma.c:201: Timer 5 Min a fost activat
+2021-10-27 19:17:48 INFO  alarma/alarma.c:115: A fost sezitata o schimbare in nivelul lui ACOK : Power OFF
+2021-10-27 19:17:52 INFO  alarma/alarma.c:115: A fost sezitata o schimbare in nivelul lui ACOK : Power ON
+2021-10-27 19:22:03 INFO  alarma/alarma.c:201: Timer 5 Min a fost activat
+2021-10-27 19:22:58 INFO  alarma/alarma.c:115: A fost sezitata o schimbare in nivelul lui ACOK : Power OFF
+2021-10-27 19:23:08 ERROR mail/mail.c:148: curl_easy_perform() failed: Timeout was reached
+
